@@ -1,4 +1,4 @@
 <?php
 
-    $string = "coucou ça va ? ";
-    echo "$string";
+    $string2 = "coucou ça va ? ";
+    echo "$string2";
